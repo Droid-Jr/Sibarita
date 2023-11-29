@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.lis{
+    @apply cursor-pointer hover:text-[#F9B681] duration-300 ease-in-out
+}
